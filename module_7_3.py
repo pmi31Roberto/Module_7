@@ -1,9 +1,9 @@
-def remove_double_list(double_list):
-    one_list = []
-    for i in double_list:
-        for j in i:
-            one_list.append(j)
-    return one_list
+# def remove_double_list(double_list):
+#     one_list = []
+#     for i in double_list:
+#         for j in i:
+#             one_list.append(j)
+#     return one_list
 
 
 def remove_punctuation(line):
